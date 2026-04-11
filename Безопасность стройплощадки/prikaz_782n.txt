@@ -1,0 +1,10 @@
+﻿python : Traceback (most recent call last):
+At line:1 char:1
++ python -c "
++ ~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (Traceback (most recent call last)::String) [], RemoteException
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+  File "<string>", line 4, in <module>
+    from striprtf.striprtf import rtf_to_text
+ModuleNotFoundError: No module named 'striprtf'
